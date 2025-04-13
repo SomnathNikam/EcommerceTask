@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blended_grey">#A8A9AD</color>
+    <color name="russet">#80461B</color>
+    <color name="olivia">#808000</color>
+    <color name="mistic">#B0B6B8</color>
+    <color name="honey">#FFC30B</color>
+    <color name="brownish">#A52A2A</color>
+    <color name="coffee">#6F4E37</color>
+    <color name="cloudio">#DDE3E9</color>
+    <color name="caramello">#AF6E4D</color>
+    <color name="greyish">#B5B5B5</color>
+</resources>
